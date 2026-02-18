@@ -1,3 +1,16 @@
+---
+name: simplemem
+description: Local memory storage with Ollama semantic search for persistent agent memory
+metadata:
+  {
+    "openclaw":
+      {
+        "emoji": "🧠",
+        "requires": { "bins": ["mcporter"] },
+      },
+  }
+---
+
 # SimpleMem Skill
 
 A skill for interacting with SimpleMem, a local memory storage system that uses Ollama for semantic search and dialogue compression.
